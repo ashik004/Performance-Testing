@@ -1,0 +1,201 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1666679618845,1151,Login Api,200,OK,Thread Group 1-3,text,true,,433,287,8,8,https://customer-test-api.herokuapp.com/customer/api/v1/login,1147,0,856
+1666679618531,1476,Login Api,200,OK,Thread Group 1-1,text,true,,433,287,8,8,https://customer-test-api.herokuapp.com/customer/api/v1/login,1476,0,1178
+1666679618643,1403,Login Api,200,OK,Thread Group 1-2,text,true,,433,287,9,9,https://customer-test-api.herokuapp.com/customer/api/v1/login,1403,0,1087
+1666679619043,1226,Login Api,200,OK,Thread Group 1-4,text,true,,433,287,10,10,https://customer-test-api.herokuapp.com/customer/api/v1/login,1226,0,919
+1666679619243,1190,Login Api,200,OK,Thread Group 1-5,text,true,,433,287,10,10,https://customer-test-api.herokuapp.com/customer/api/v1/login,1190,0,893
+1666679619442,1158,Login Api,200,OK,Thread Group 1-6,text,true,,433,287,11,11,https://customer-test-api.herokuapp.com/customer/api/v1/login,1158,0,867
+1666679620025,580,Customer_list,200,OK,Thread Group 1-1,text,true,,3856,374,11,11,http://customer-test-api.herokuapp.com/customer/api/v1/list,580,0,289
+1666679620025,588,Customer_list,200,OK,Thread Group 1-3,text,true,,3856,374,11,11,http://customer-test-api.herokuapp.com/customer/api/v1/list,588,0,293
+1666679620046,597,Customer_list,200,OK,Thread Group 1-2,text,true,,3856,374,12,12,http://customer-test-api.herokuapp.com/customer/api/v1/list,597,0,298
+1666679619641,1172,Login Api,200,OK,Thread Group 1-7,text,true,,433,287,12,12,https://customer-test-api.herokuapp.com/customer/api/v1/login,1171,0,878
+1666679620270,584,Customer_list,200,OK,Thread Group 1-4,text,true,,3856,374,13,13,http://customer-test-api.herokuapp.com/customer/api/v1/list,584,0,291
+1666679620614,283,getinto_Api,200,OK,Thread Group 1-3,text,true,,356,377,13,13,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,283,0,0
+1666679620605,299,getinto_Api,200,OK,Thread Group 1-1,text,true,,356,377,13,13,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,299,0,0
+1666679620644,315,getinto_Api,200,OK,Thread Group 1-2,text,true,,356,377,13,13,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,315,0,0
+1666679620434,602,Customer_list,200,OK,Thread Group 1-5,text,true,,3856,374,14,14,http://customer-test-api.herokuapp.com/customer/api/v1/list,602,0,301
+1666679620854,308,getinto_Api,200,OK,Thread Group 1-4,text,true,,356,377,14,14,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,308,0,0
+1666679619840,1365,Login Api,200,OK,Thread Group 1-8,text,true,,433,287,14,14,https://customer-test-api.herokuapp.com/customer/api/v1/login,1365,0,1022
+1666679620039,1175,Login Api,200,OK,Thread Group 1-9,text,true,,433,287,14,14,https://customer-test-api.herokuapp.com/customer/api/v1/login,1174,0,880
+1666679620601,653,Customer_list,200,OK,Thread Group 1-6,text,true,,3856,374,15,15,http://customer-test-api.herokuapp.com/customer/api/v1/list,653,0,327
+1666679621037,295,getinto_Api,200,OK,Thread Group 1-5,text,true,,356,377,15,15,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,295,0,0
+1666679620814,586,Customer_list,200,OK,Thread Group 1-7,text,true,,3856,374,15,15,http://customer-test-api.herokuapp.com/customer/api/v1/list,586,0,291
+1666679620239,1200,Login Api,200,OK,Thread Group 1-10,text,true,,433,287,16,16,https://customer-test-api.herokuapp.com/customer/api/v1/login,1200,0,900
+1666679621255,289,getinto_Api,200,OK,Thread Group 1-6,text,true,,356,377,16,16,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,289,0,0
+1666679620437,1201,Login Api,200,OK,Thread Group 1-11,text,true,,433,287,17,17,https://customer-test-api.herokuapp.com/customer/api/v1/login,1201,0,899
+1666679621400,294,getinto_Api,200,OK,Thread Group 1-7,text,true,,356,377,17,17,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,294,0,0
+1666679621215,581,Customer_list,200,OK,Thread Group 1-9,text,true,,3856,374,17,17,http://customer-test-api.herokuapp.com/customer/api/v1/list,581,0,288
+1666679621206,616,Customer_list,200,OK,Thread Group 1-8,text,true,,3856,374,17,17,http://customer-test-api.herokuapp.com/customer/api/v1/list,616,0,308
+1666679620638,1206,Login Api,200,OK,Thread Group 1-12,text,true,,433,287,18,18,https://customer-test-api.herokuapp.com/customer/api/v1/login,1206,0,903
+1666679621440,585,Customer_list,200,OK,Thread Group 1-10,text,true,,3856,374,18,18,http://customer-test-api.herokuapp.com/customer/api/v1/list,585,0,290
+1666679620837,1194,Login Api,200,OK,Thread Group 1-13,text,true,,433,287,18,18,https://customer-test-api.herokuapp.com/customer/api/v1/login,1194,0,895
+1666679621796,296,getinto_Api,200,OK,Thread Group 1-9,text,true,,356,377,19,19,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,295,0,0
+1666679621822,344,getinto_Api,200,OK,Thread Group 1-8,text,true,,356,377,19,19,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,344,0,0
+1666679621639,615,Customer_list,200,OK,Thread Group 1-11,text,true,,3856,374,20,20,http://customer-test-api.herokuapp.com/customer/api/v1/list,615,0,305
+1666679621036,1254,Login Api,200,OK,Thread Group 1-14,text,true,,433,287,20,20,https://customer-test-api.herokuapp.com/customer/api/v1/login,1254,0,938
+1666679622025,302,getinto_Api,200,OK,Thread Group 1-10,text,true,,356,377,20,20,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,302,0,0
+1666679621237,1181,Login Api,200,OK,Thread Group 1-15,text,true,,433,287,20,20,https://customer-test-api.herokuapp.com/customer/api/v1/login,1181,0,884
+1666679621844,588,Customer_list,200,OK,Thread Group 1-12,text,true,,3856,374,20,20,http://customer-test-api.herokuapp.com/customer/api/v1/list,588,0,293
+1666679622254,300,getinto_Api,200,OK,Thread Group 1-11,text,true,,356,377,21,21,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,300,0,0
+1666679622032,613,Customer_list,200,OK,Thread Group 1-13,text,true,,3856,374,22,22,http://customer-test-api.herokuapp.com/customer/api/v1/list,613,0,298
+1666679621437,1255,Login Api,200,OK,Thread Group 1-16,text,true,,433,287,22,22,https://customer-test-api.herokuapp.com/customer/api/v1/login,1255,0,938
+1666679622432,304,getinto_Api,200,OK,Thread Group 1-12,text,true,,356,377,22,22,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,304,0,0
+1666679622290,608,Customer_list,200,OK,Thread Group 1-14,text,true,,3856,374,23,23,http://customer-test-api.herokuapp.com/customer/api/v1/list,608,0,304
+1666679621636,1263,Login Api,200,OK,Thread Group 1-17,text,true,,433,287,23,23,https://customer-test-api.herokuapp.com/customer/api/v1/login,1263,0,943
+1666679622645,303,getinto_Api,200,OK,Thread Group 1-13,text,true,,356,377,23,23,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,303,0,0
+1666679622681,288,Create new Customer,201,Created,Thread Group 1-3,text,true,,414,564,23,23,https://customer-test-api.herokuapp.com/customer/api/v1/create,288,0,0
+1666679622681,291,Create new Customer,201,Created,Thread Group 1-6,text,true,,414,564,22,22,https://customer-test-api.herokuapp.com/customer/api/v1/create,291,0,0
+1666679622681,294,Create new Customer,201,Created,Thread Group 1-7,text,true,,405,555,21,21,https://customer-test-api.herokuapp.com/customer/api/v1/create,294,0,0
+1666679622681,298,Create new Customer,201,Created,Thread Group 1-5,text,true,,422,572,20,20,https://customer-test-api.herokuapp.com/customer/api/v1/create,298,0,0
+1666679622681,301,Create new Customer,201,Created,Thread Group 1-1,text,true,,421,571,19,19,https://customer-test-api.herokuapp.com/customer/api/v1/create,301,0,0
+1666679622693,662,Customer_list,200,OK,Thread Group 1-16,text,true,,4518,374,20,20,http://customer-test-api.herokuapp.com/customer/api/v1/list,662,0,321
+1666679623021,348,Create new Customer,201,Created,Thread Group 1-8,text,true,,415,565,20,20,https://customer-test-api.herokuapp.com/customer/api/v1/create,348,0,0
+1666679623356,333,getinto_Api,200,OK,Thread Group 1-16,text,true,,356,377,21,21,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,333,0,0
+1666679623789,307,Create new Customer,201,Created,Thread Group 1-13,text,true,,420,570,23,23,https://customer-test-api.herokuapp.com/customer/api/v1/create,307,0,0
+1666679624529,328,Create new Customer,201,Created,Thread Group 1-16,text,true,,409,559,26,26,https://customer-test-api.herokuapp.com/customer/api/v1/create,328,0,0
+1666679622898,2326,getinto_Api,200,OK,Thread Group 1-14,text,true,,356,377,26,26,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,2326,0,0
+1666679624035,1207,Login Api,200,OK,Thread Group 1-29,text,true,,433,287,27,27,https://customer-test-api.herokuapp.com/customer/api/v1/login,1206,0,899
+1666679622900,2645,Customer_list,200,OK,Thread Group 1-17,text,true,,4913,374,28,28,http://customer-test-api.herokuapp.com/customer/api/v1/list,2645,0,319
+1666679623435,2171,Login Api,200,OK,Thread Group 1-26,text,true,,433,287,28,28,https://customer-test-api.herokuapp.com/customer/api/v1/login,2171,0,875
+1666679624436,1198,Login Api,200,OK,Thread Group 1-31,text,true,,433,287,28,28,https://customer-test-api.herokuapp.com/customer/api/v1/login,1198,0,898
+1666679625545,314,getinto_Api,200,OK,Thread Group 1-17,text,true,,356,377,30,30,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,314,0,0
+1666679624636,1248,Login Api,200,OK,Thread Group 1-32,text,true,,433,287,30,30,https://customer-test-api.herokuapp.com/customer/api/v1/login,1248,0,935
+1666679624835,1162,Login Api,200,OK,Thread Group 1-33,text,true,,433,287,30,30,https://customer-test-api.herokuapp.com/customer/api/v1/login,1162,0,869
+1666679625607,587,Customer_list,200,OK,Thread Group 1-26,text,true,,4913,374,31,31,http://customer-test-api.herokuapp.com/customer/api/v1/list,587,0,292
+1666679626066,314,Create new Customer,201,Created,Thread Group 1-14,text,true,,420,570,32,32,https://customer-test-api.herokuapp.com/customer/api/v1/create,314,0,0
+1666679625635,1239,Login Api,200,OK,Thread Group 1-37,text,true,,433,287,34,34,https://customer-test-api.herokuapp.com/customer/api/v1/login,1239,0,917
+1666679625835,1185,Login Api,200,OK,Thread Group 1-38,text,true,,433,287,34,34,https://customer-test-api.herokuapp.com/customer/api/v1/login,1185,0,886
+1666679626703,319,Create new Customer,201,Created,Thread Group 1-17,text,true,,418,568,34,34,https://customer-test-api.herokuapp.com/customer/api/v1/create,319,0,0
+1666679625235,2162,Login Api,200,OK,Thread Group 1-35,text,true,,433,287,35,35,https://customer-test-api.herokuapp.com/customer/api/v1/login,2162,0,860
+1666679626235,1172,Login Api,200,OK,Thread Group 1-40,text,true,,433,287,35,35,https://customer-test-api.herokuapp.com/customer/api/v1/login,1172,0,872
+1666679622036,5402,Login Api,200,OK,Thread Group 1-19,text,true,,433,287,36,36,https://customer-test-api.herokuapp.com/customer/api/v1/login,5402,0,1045
+1666679626874,649,Customer_list,200,OK,Thread Group 1-37,text,true,,5185,374,36,36,http://customer-test-api.herokuapp.com/customer/api/v1/list,649,0,324
+1666679627021,625,Customer_list,200,OK,Thread Group 1-38,text,true,,5185,374,36,36,http://customer-test-api.herokuapp.com/customer/api/v1/list,624,0,312
+1666679623634,4194,Login Api,200,OK,Thread Group 1-27,text,true,,433,287,37,37,https://customer-test-api.herokuapp.com/customer/api/v1/login,4194,0,890
+1666679627524,310,getinto_Api,200,OK,Thread Group 1-37,text,true,,356,377,38,38,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,310,0,0
+1666679626635,1275,Login Api,200,OK,Thread Group 1-42,text,true,,433,287,38,38,https://customer-test-api.herokuapp.com/customer/api/v1/login,1275,0,955
+1666679626835,1174,Login Api,200,OK,Thread Group 1-43,text,true,,433,287,38,38,https://customer-test-api.herokuapp.com/customer/api/v1/login,1174,0,878
+1666679627398,625,Customer_list,200,OK,Thread Group 1-35,text,true,,5185,374,38,38,http://customer-test-api.herokuapp.com/customer/api/v1/list,625,0,312
+1666679627438,588,Customer_list,200,OK,Thread Group 1-19,text,true,,5185,374,38,38,http://customer-test-api.herokuapp.com/customer/api/v1/list,588,0,293
+1666679627034,1188,Login Api,200,OK,Thread Group 1-44,text,true,,433,287,39,39,https://customer-test-api.herokuapp.com/customer/api/v1/login,1188,0,889
+1666679626035,2253,Login Api,200,OK,Thread Group 1-39,text,true,,433,287,40,40,https://customer-test-api.herokuapp.com/customer/api/v1/login,2253,0,937
+1666679628023,288,getinto_Api,200,OK,Thread Group 1-35,text,true,,356,377,40,40,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,288,0,0
+1666679625036,3291,Login Api,200,OK,Thread Group 1-34,text,true,,433,287,40,40,https://customer-test-api.herokuapp.com/customer/api/v1/login,3291,0,967
+1666679628026,346,getinto_Api,200,OK,Thread Group 1-19,text,true,,356,377,40,40,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,346,0,0
+1666679627236,1186,Login Api,200,OK,Thread Group 1-45,text,true,,433,287,40,40,https://customer-test-api.herokuapp.com/customer/api/v1/login,1186,0,887
+1666679623234,5195,Login Api,200,OK,Thread Group 1-25,text,true,,433,287,40,40,https://customer-test-api.herokuapp.com/customer/api/v1/login,5195,0,893
+1666679627829,605,Customer_list,200,OK,Thread Group 1-27,text,true,,5185,374,40,40,http://customer-test-api.herokuapp.com/customer/api/v1/list,605,0,302
+1666679623179,5306,Create new Customer,201,Created,Thread Group 1-10,text,true,,408,558,40,40,https://customer-test-api.herokuapp.com/customer/api/v1/create,5306,0,0
+1666679628328,644,Customer_list,200,OK,Thread Group 1-34,text,true,,5310,374,39,39,http://customer-test-api.herokuapp.com/customer/api/v1/list,644,0,318
+1666679628677,312,Create new Customer,201,Created,Thread Group 1-37,text,true,,416,566,39,39,https://customer-test-api.herokuapp.com/customer/api/v1/create,312,0,0
+1666679629157,302,Create new Customer,201,Created,Thread Group 1-35,text,true,,408,558,38,38,https://customer-test-api.herokuapp.com/customer/api/v1/create,302,0,0
+1666679625885,3588,Customer_list,503,Service Unavailable,Thread Group 1-32,text,false,,715,374,37,37,http://customer-test-api.herokuapp.com/customer/api/v1/list,3588,0,292
+1666679629473,339,getinto_Api,200,OK,Thread Group 1-32,text,true,,356,377,37,37,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,339,0,0
+1666679625242,4616,Customer_list,200,OK,Thread Group 1-29,text,true,,5568,374,37,37,http://customer-test-api.herokuapp.com/customer/api/v1/list,4616,0,300
+1666679623571,6321,Create new Customer,201,Created,Thread Group 1-12,text,true,,417,567,37,37,https://customer-test-api.herokuapp.com/customer/api/v1/create,6321,0,0
+1666679626195,4308,getinto_Api,200,OK,Thread Group 1-26,text,true,,356,377,36,36,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,4308,0,0
+1666679628223,2618,Customer_list,200,OK,Thread Group 1-44,text,true,,5702,374,36,36,http://customer-test-api.herokuapp.com/customer/api/v1/list,2618,0,307
+1666679630657,320,Create new Customer,201,Created,Thread Group 1-32,text,true,,420,570,36,36,https://customer-test-api.herokuapp.com/customer/api/v1/create,320,0,0
+1666679628235,3368,Login Api,200,OK,Thread Group 1-50,text,true,,433,287,35,35,https://customer-test-api.herokuapp.com/customer/api/v1/login,3368,0,1012
+1666679631341,295,Create new Customer,201,Created,Thread Group 1-26,text,true,,415,565,35,35,https://customer-test-api.herokuapp.com/customer/api/v1/create,295,0,0
+1666679628035,4193,Login Api,200,OK,Thread Group 1-49,text,true,,433,287,34,34,https://customer-test-api.herokuapp.com/customer/api/v1/login,4193,0,881
+1666679629203,3354,Create new Customer,201,Created,Thread Group 1-19,text,true,,418,568,34,34,https://customer-test-api.herokuapp.com/customer/api/v1/create,3354,0,0
+1666679629858,3312,getinto_Api,200,OK,Thread Group 1-29,text,true,,356,377,33,33,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,3312,0,0
+1666679628972,4329,getinto_Api,200,OK,Thread Group 1-34,text,true,,356,377,33,33,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,4329,0,0
+1666679622435,11208,Login Api,200,OK,Thread Group 1-21,text,true,,433,287,33,33,https://customer-test-api.herokuapp.com/customer/api/v1/login,11208,0,888
+1666679625436,8256,Login Api,200,OK,Thread Group 1-36,text,true,,433,287,33,33,https://customer-test-api.herokuapp.com/customer/api/v1/login,8256,0,932
+1666679623390,10312,Create new Customer,201,Created,Thread Group 1-11,text,true,,431,581,33,33,https://customer-test-api.herokuapp.com/customer/api/v1/create,10312,0,0
+1666679630841,3310,getinto_Api,200,OK,Thread Group 1-44,text,true,,356,377,32,32,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,3310,0,0
+1666679633644,618,Customer_list,200,OK,Thread Group 1-21,text,true,,6254,374,32,32,http://customer-test-api.herokuapp.com/customer/api/v1/list,618,0,307
+1666679633692,613,Customer_list,200,OK,Thread Group 1-36,text,true,,6254,374,32,32,http://customer-test-api.herokuapp.com/customer/api/v1/list,613,0,303
+1666679634014,307,Create new Customer,201,Created,Thread Group 1-29,text,true,,420,570,32,32,https://customer-test-api.herokuapp.com/customer/api/v1/create,307,0,0
+1666679623835,11172,Login Api,200,OK,Thread Group 1-28,text,true,,433,287,31,31,https://customer-test-api.herokuapp.com/customer/api/v1/login,11172,0,856
+1666679622681,12337,Create new Customer,201,Created,Thread Group 1-4,text,true,,425,575,31,31,https://customer-test-api.herokuapp.com/customer/api/v1/create,12337,0,0
+1666679622419,12605,Customer_list,200,OK,Thread Group 1-15,text,true,,6669,374,30,30,http://customer-test-api.herokuapp.com/customer/api/v1/list,12605,0,293
+1666679622681,12345,Create new Customer,201,Created,Thread Group 1-2,text,true,,419,569,30,30,https://customer-test-api.herokuapp.com/customer/api/v1/create,12345,0,0
+1666679627408,7618,Customer_list,200,OK,Thread Group 1-40,text,true,,6669,374,30,30,http://customer-test-api.herokuapp.com/customer/api/v1/list,7618,0,296
+1666679627911,7633,Customer_list,200,OK,Thread Group 1-42,text,true,,6669,374,29,29,http://customer-test-api.herokuapp.com/customer/api/v1/list,7633,0,308
+1666679625997,9587,Customer_list,200,OK,Thread Group 1-33,text,true,,6669,374,29,29,http://customer-test-api.herokuapp.com/customer/api/v1/list,9586,0,288
+1666679627435,8161,Login Api,200,OK,Thread Group 1-46,text,true,,433,287,29,29,https://customer-test-api.herokuapp.com/customer/api/v1/login,8161,0,858
+1666679626434,9263,Login Api,200,OK,Thread Group 1-41,text,true,,433,287,29,29,https://customer-test-api.herokuapp.com/customer/api/v1/login,9263,0,939
+1666679635544,322,getinto_Api,200,OK,Thread Group 1-42,text,true,,356,377,29,29,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,322,0,0
+1666679635584,291,getinto_Api,200,OK,Thread Group 1-33,text,true,,356,377,29,29,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,291,0,0
+1666679628429,7591,Customer_list,200,OK,Thread Group 1-25,text,true,,6669,374,29,29,http://customer-test-api.herokuapp.com/customer/api/v1/list,7590,0,289
+1666679628422,7708,Customer_list,200,OK,Thread Group 1-45,text,true,,6669,374,29,29,http://customer-test-api.herokuapp.com/customer/api/v1/list,7708,0,343
+1666679635698,583,Customer_list,200,OK,Thread Group 1-41,text,true,,6669,374,29,29,http://customer-test-api.herokuapp.com/customer/api/v1/list,583,0,290
+1666679636131,298,getinto_Api,200,OK,Thread Group 1-45,text,true,,356,377,29,29,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,298,0,0
+1666679622235,14211,Login Api,200,OK,Thread Group 1-20,text,true,,433,287,29,29,https://customer-test-api.herokuapp.com/customer/api/v1/login,14211,0,897
+1666679636282,316,getinto_Api,200,OK,Thread Group 1-41,text,true,,356,377,29,29,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,316,0,0
+1666679628289,8581,Customer_list,200,OK,Thread Group 1-39,text,true,,6669,374,29,29,http://customer-test-api.herokuapp.com/customer/api/v1/list,8581,0,287
+1666679627646,9309,getinto_Api,200,OK,Thread Group 1-38,text,true,,356,377,29,29,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,9309,0,0
+1666679636716,293,Create new Customer,201,Created,Thread Group 1-33,text,true,,423,573,29,29,https://customer-test-api.herokuapp.com/customer/api/v1/create,292,0,0
+1666679636701,319,Create new Customer,201,Created,Thread Group 1-42,text,true,,421,571,28,28,https://customer-test-api.herokuapp.com/customer/api/v1/create,319,0,0
+1666679637276,311,Create new Customer,201,Created,Thread Group 1-45,text,true,,411,561,27,27,https://customer-test-api.herokuapp.com/customer/api/v1/create,311,0,0
+1666679636447,1595,Customer_list,200,OK,Thread Group 1-20,text,true,,7075,374,26,26,http://customer-test-api.herokuapp.com/customer/api/v1/list,1595,0,293
+1666679636871,1317,getinto_Api,200,OK,Thread Group 1-39,text,true,,356,377,26,26,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,1317,0,0
+1666679636020,2302,getinto_Api,200,OK,Thread Group 1-25,text,true,,356,377,26,26,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,2302,0,0
+1666679635024,3304,getinto_Api,200,OK,Thread Group 1-15,text,true,,356,377,26,26,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,3304,0,0
+1666679638042,301,getinto_Api,200,OK,Thread Group 1-20,text,true,,356,377,26,26,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,301,0,0
+1666679634145,4336,Create new Customer,201,Created,Thread Group 1-34,text,true,,421,571,26,26,https://customer-test-api.herokuapp.com/customer/api/v1/create,4336,0,0
+1666679634994,4317,Create new Customer,201,Created,Thread Group 1-44,text,true,,426,576,25,25,https://customer-test-api.herokuapp.com/customer/api/v1/create,4317,0,0
+1666679621835,18234,Login Api,200,OK,Thread Group 1-18,text,true,,433,287,24,24,https://customer-test-api.herokuapp.com/customer/api/v1/login,18234,0,902
+1666679635597,4594,Customer_list,200,OK,Thread Group 1-46,text,true,,7356,374,24,24,http://customer-test-api.herokuapp.com/customer/api/v1/list,4594,0,293
+1666679631604,8612,Customer_list,200,OK,Thread Group 1-50,text,true,,7356,374,24,24,http://customer-test-api.herokuapp.com/customer/api/v1/list,8612,0,298
+1666679640191,292,getinto_Api,200,OK,Thread Group 1-46,text,true,,356,377,24,24,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,292,0,0
+1666679640216,340,getinto_Api,200,OK,Thread Group 1-50,text,true,,356,377,24,24,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,340,0,0
+1666679640072,595,Customer_list,200,OK,Thread Group 1-18,text,true,,7356,374,24,24,http://customer-test-api.herokuapp.com/customer/api/v1/list,594,0,297
+1666679635008,5674,Customer_list,200,OK,Thread Group 1-28,text,true,,7356,374,24,24,http://customer-test-api.herokuapp.com/customer/api/v1/list,5674,0,335
+1666679637444,3320,Create new Customer,201,Created,Thread Group 1-41,text,true,,425,575,24,24,https://customer-test-api.herokuapp.com/customer/api/v1/create,3320,0,0
+1666679639181,2325,Create new Customer,201,Created,Thread Group 1-20,text,true,,412,562,23,23,https://customer-test-api.herokuapp.com/customer/api/v1/create,2324,0,0
+1666679637798,4317,Create new Customer,201,Created,Thread Group 1-38,text,true,,403,553,22,22,https://customer-test-api.herokuapp.com/customer/api/v1/create,4317,0,0
+1666679639034,4338,Create new Customer,201,Created,Thread Group 1-39,text,true,,420,570,21,21,https://customer-test-api.herokuapp.com/customer/api/v1/create,4338,0,0
+1666679628009,16601,Customer_list,200,OK,Thread Group 1-43,text,true,,7884,374,20,20,http://customer-test-api.herokuapp.com/customer/api/v1/list,16601,0,288
+1666679641329,3300,Create new Customer,201,Created,Thread Group 1-46,text,true,,419,569,20,20,https://customer-test-api.herokuapp.com/customer/api/v1/create,3300,0,0
+1666679640682,4300,getinto_Api,200,OK,Thread Group 1-28,text,true,,356,377,19,19,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,4300,0,0
+1666679640667,4321,getinto_Api,200,OK,Thread Group 1-18,text,true,,356,377,19,19,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,4321,0,0
+1666679645826,294,Create new Customer,201,Created,Thread Group 1-28,text,true,,413,563,19,19,https://customer-test-api.herokuapp.com/customer/api/v1/create,294,0,0
+1666679645824,308,Create new Customer,201,Created,Thread Group 1-18,text,true,,430,580,18,18,https://customer-test-api.herokuapp.com/customer/api/v1/create,308,0,0
+1666679641394,5360,Create new Customer,201,Created,Thread Group 1-50,text,true,,427,577,17,17,https://customer-test-api.herokuapp.com/customer/api/v1/create,5360,0,0
+1666679622926,24337,Create new Customer,201,Created,Thread Group 1-9,text,true,,414,564,16,16,https://customer-test-api.herokuapp.com/customer/api/v1/create,24337,0,0
+1666679623035,24231,Login Api,200,OK,Thread Group 1-24,text,true,,433,287,15,15,https://customer-test-api.herokuapp.com/customer/api/v1/login,24231,0,892
+1666679639160,9317,Create new Customer,201,Created,Thread Group 1-15,text,true,,429,579,15,15,https://customer-test-api.herokuapp.com/customer/api/v1/create,9317,0,0
+1666679639160,9324,Create new Customer,201,Created,Thread Group 1-25,text,true,,421,571,14,14,https://customer-test-api.herokuapp.com/customer/api/v1/create,9324,0,0
+1666679632229,17663,Customer_list,200,OK,Thread Group 1-49,text,true,,8856,374,13,13,http://customer-test-api.herokuapp.com/customer/api/v1/list,17663,0,319
+1666679649892,303,getinto_Api,200,OK,Thread Group 1-49,text,true,,356,377,13,13,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,303,0,0
+1666679625635,24666,Customer_list,200,OK,Thread Group 1-31,text,true,,8856,374,13,13,http://customer-test-api.herokuapp.com/customer/api/v1/list,24666,0,320
+1666679650301,304,getinto_Api,200,OK,Thread Group 1-31,text,true,,356,377,13,13,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,304,0,0
+1666679622835,28396,Login Api,200,OK,Thread Group 1-23,text,true,,433,287,13,13,https://customer-test-api.herokuapp.com/customer/api/v1/login,28396,0,1015
+1666679651039,299,Create new Customer,201,Created,Thread Group 1-49,text,true,,414,564,13,13,https://customer-test-api.herokuapp.com/customer/api/v1/create,299,0,0
+1666679651442,313,Create new Customer,201,Created,Thread Group 1-31,text,true,,416,566,12,12,https://customer-test-api.herokuapp.com/customer/api/v1/create,313,0,0
+1666679635026,17319,getinto_Api,200,OK,Thread Group 1-40,text,true,,356,377,11,11,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,17319,0,0
+1666679627647,25195,Login Api,200,OK,Thread Group 1-47,text,true,,433,287,11,11,https://customer-test-api.herokuapp.com/customer/api/v1/login,25195,0,871
+1666679652843,603,Customer_list,200,OK,Thread Group 1-47,text,true,,9120,374,11,11,http://customer-test-api.herokuapp.com/customer/api/v1/list,603,0,300
+1666679653190,294,Create new Customer,201,Created,Thread Group 1-40,text,true,,413,563,11,11,https://customer-test-api.herokuapp.com/customer/api/v1/create,294,0,0
+1666679651232,2683,Customer_list,200,OK,Thread Group 1-23,text,true,,9250,374,10,10,http://customer-test-api.herokuapp.com/customer/api/v1/list,2683,0,359
+1666679653915,344,getinto_Api,200,OK,Thread Group 1-23,text,true,,356,377,10,10,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,344,0,0
+1666679655096,348,Create new Customer,201,Created,Thread Group 1-23,text,true,,427,577,10,10,https://customer-test-api.herokuapp.com/customer/api/v1/create,348,0,0
+1666679644610,12323,getinto_Api,200,OK,Thread Group 1-43,text,true,,356,377,9,9,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,12323,0,0
+1666679647266,9694,Customer_list,200,OK,Thread Group 1-24,text,true,,9394,374,9,9,http://customer-test-api.herokuapp.com/customer/api/v1/list,9694,0,337
+1666679656960,300,getinto_Api,200,OK,Thread Group 1-24,text,true,,356,377,9,9,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,300,0,0
+1666679624235,33291,Login Api,200,OK,Thread Group 1-30,text,true,,433,287,9,9,https://customer-test-api.herokuapp.com/customer/api/v1/login,33291,0,938
+1666679653447,4297,getinto_Api,200,OK,Thread Group 1-47,text,true,,356,377,9,9,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,4297,0,0
+1666679628435,29331,getinto_Api,200,OK,Thread Group 1-27,text,true,,356,377,9,9,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,29331,0,0
+1666679657780,295,Create new Customer,201,Created,Thread Group 1-43,text,true,,414,564,9,9,https://customer-test-api.herokuapp.com/customer/api/v1/create,295,0,0
+1666679634262,24332,getinto_Api,200,OK,Thread Group 1-21,text,true,,356,377,8,8,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,24332,0,0
+1666679634305,24347,getinto_Api,200,OK,Thread Group 1-36,text,true,,356,377,8,8,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,24347,0,0
+1666679627834,31402,Login Api,200,OK,Thread Group 1-48,text,true,,433,287,8,8,https://customer-test-api.herokuapp.com/customer/api/v1/login,31402,0,1022
+1666679659432,296,Create new Customer,201,Created,Thread Group 1-21,text,true,,420,570,8,8,https://customer-test-api.herokuapp.com/customer/api/v1/create,296,0,0
+1666679658102,4318,Create new Customer,201,Created,Thread Group 1-24,text,true,,408,558,7,7,https://customer-test-api.herokuapp.com/customer/api/v1/create,4318,0,0
+1666679658588,4311,Create new Customer,201,Created,Thread Group 1-47,text,true,,422,572,6,6,https://customer-test-api.herokuapp.com/customer/api/v1/create,4311,0,0
+1666679659498,4330,Create new Customer,201,Created,Thread Group 1-36,text,true,,409,559,5,5,https://customer-test-api.herokuapp.com/customer/api/v1/create,4330,0,0
+1666679659237,5593,Customer_list,200,OK,Thread Group 1-48,text,true,,10052,374,4,4,http://customer-test-api.herokuapp.com/customer/api/v1/list,5593,0,290
+1666679658610,9318,Create new Customer,201,Created,Thread Group 1-27,text,true,,421,571,4,4,https://customer-test-api.herokuapp.com/customer/api/v1/create,9318,0,0
+1666679622635,46242,Login Api,200,OK,Thread Group 1-22,text,true,,433,287,3,3,https://customer-test-api.herokuapp.com/customer/api/v1/login,46242,0,884
+1666679664830,4351,getinto_Api,200,OK,Thread Group 1-48,text,true,,356,377,3,3,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,4351,0,0
+1666679668878,586,Customer_list,200,OK,Thread Group 1-22,text,true,,10190,374,3,3,http://customer-test-api.herokuapp.com/customer/api/v1/list,585,0,291
+1666679669464,296,getinto_Api,200,OK,Thread Group 1-22,text,true,,356,377,3,3,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,296,0,0
+1666679670019,342,Create new Customer,201,Created,Thread Group 1-48,text,true,,417,567,3,3,https://customer-test-api.herokuapp.com/customer/api/v1/create,342,0,0
+1666679670607,311,Create new Customer,201,Created,Thread Group 1-22,text,true,,423,573,2,2,https://customer-test-api.herokuapp.com/customer/api/v1/create,311,0,0
+1666679657527,15678,Customer_list,200,OK,Thread Group 1-30,text,true,,10465,374,1,1,http://customer-test-api.herokuapp.com/customer/api/v1/list,15678,0,326
+1666679673205,319,getinto_Api,200,OK,Thread Group 1-30,text,true,,356,377,1,1,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,319,0,0
+1666679674369,321,Create new Customer,201,Created,Thread Group 1-30,text,true,,415,565,1,1,https://customer-test-api.herokuapp.com/customer/api/v1/create,321,0,0
